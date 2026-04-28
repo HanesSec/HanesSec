@@ -5,9 +5,9 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Segurança_da_Informação-cursando-000000?style=flat-square&labelColor=000000&color=000000&logoColor=00ff00">
-  <img src="https://img.shields.io/badge/Ethical_Hacking-em_andamento-000000?style=flat-square&labelColor=000000&color=000000">
-  <img src="https://img.shields.io/badge/Cisco_NetAcad-000000?style=flat-square&labelColor=000000&color=000000">
+  <img src="https://img.shields.io/badge/Segurança_da_Informação-cursando-21262d?style=flat-square&labelColor=161b22">
+  <img src="https://img.shields.io/badge/Ethical_Hacking-em_andamento-21262d?style=flat-square&labelColor=161b22">
+  <img src="https://img.shields.io/badge/Cisco_NetAcad-21262d?style=flat-square&labelColor=161b22">
 </p>
 
 ---
